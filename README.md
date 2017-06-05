@@ -31,3 +31,6 @@ b. When using the command line mode, you have to copy voc_layers.py to /path-to-
 # python infer.py ./test_images/src_01.jpg ./test_images/infer_01.jpg
 ```
 ![](test_images/combine.jpg)
+
+### Contact Info
+If you have any problem on this project, please contact me by sending email to binlearning@163.com.
