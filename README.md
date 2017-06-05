@@ -21,7 +21,12 @@ NOTE:<br>
 a. You have to build Caffe with WITH_PYTHON_LAYER option.<br>
 b. When using the command line mode, you have to copy voc_layers.py to /path-to-caffe/python,<br>
    otherwise you will get an error "ImportError: No module named voc_layers".
+![](doc/training.png)
+![](doc/2007_000033.jpg)
+![](doc/2007_000491.jpg)
+![](doc/2007_009521.jpg)
 ### 3.inference
 ```
 # python infer.py ./test_images/src_01.jpg ./test_images/infer_01.jpg
 ```
+![](test_images/combine.jpg)
