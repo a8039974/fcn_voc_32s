@@ -1,0 +1,2 @@
+
+# python infer.py ./test_images/src_01.jpg ./test_images/infer_01.jpg

@@ -1,0 +1,13 @@
+
+(1) Using the command line mode
+# /path-to-caffe/build/tools/caffe train -solver ./model/solver_cmdline.prototxt -weights ./model/voc_fcn32s_trans_init.caffemodel -gpu 0
+
+(2) Using the Python program
+# python solve.py
+
+
+NOTE:
+a. You have to build Caffe with WITH_PYTHON_LAYER option.
+b. When using the command line mode, you have to copy voc_layers.py to /path-to-caffe/python,
+   otherwise you will get an error "ImportError: No module named voc_layers".
+   
