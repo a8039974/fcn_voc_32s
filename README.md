@@ -1,7 +1,7 @@
 ## fcn_voc_32s
 Source code to implement [FCN](https://arxiv.org/abs/1605.06211) voc-fcn32s, reference to [fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org). <br>
 The project consists of three steps. <br>
-### 1.transfer and initialize
+### 1.transfer and initialization
 ```
 # python trans_and_init.py VGG_ILSVRC_16_layers.prototxt VGG_ILSVRC_16_layers.caffemodel voc_fcn32s_deploy.prototxt voc_fcn32s_trans_init.caffemodel
 ```
