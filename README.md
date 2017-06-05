@@ -1,5 +1,7 @@
 ## fcn_voc_32s
 Source code to implement [FCN](https://arxiv.org/abs/1605.06211) voc-fcn32s, reference to [fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org). <br>
+Detailed introduction: http://blog.csdn.net/binlearning/article/details/72854136 .<br>
+<br>
 The project consists of three steps: <br>
 ### 1.transfer and initialization
 ```
