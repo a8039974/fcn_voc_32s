@@ -22,7 +22,6 @@ Download trained VGG model from http://www.robots.ox.ac.uk/~vgg/research/very_de
 NOTE:<br>
 a. You have to build Caffe with WITH_PYTHON_LAYER option.<br>
 b. When using the command line mode, you have to copy voc_layers.py to /path-to-caffe/python, otherwise you will get an error "ImportError: No module named voc_layers".
-![](doc/training.png)
 ![](doc/2007_000033.jpg)
 ![](doc/2007_000491.jpg)
 ![](doc/2007_009521.jpg)
